@@ -31,12 +31,8 @@ setup(
             "add_two_ints_client= my_py_pkg.add_two_ints_client:main",
             "add_two_ints_client_no_oop = my_py_pkg.add_two_ints_client_no_oop:main",
             "led_panel_state = my_py_pkg.led_panel_state:main",
-            "battery_node = my_py_pkg.battery_node:main",
-            "turtlesim_keybord =  my_py_pkg.turtlesim_keybord:main",
-            "move_turtle = my_py_pkg.move_turtle:main",
-            "turtlesim_key = my_py_pkg.turtlesim_key"
-
-            
+            "battery_node = my_py_pkg.battery_node:main"
+         
         ],
     },
 )
